@@ -1,6 +1,6 @@
 # BLOC
- <ul>MODULE: WDT Frontend & Programming Fundamentals
-  <li>HTML Basics
-  <li>CSS Basic
-  <li> Command Line Basics
-  <li> GitHub Basics
+## MODULE: WDT Frontend & Programming Fundamentals
+* HTML Basics
+* CSS Basic
+* Command Line Basics
+* GitHub Basics
